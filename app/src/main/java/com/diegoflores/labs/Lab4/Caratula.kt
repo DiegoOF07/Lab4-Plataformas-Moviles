@@ -1,4 +1,4 @@
-package com.diegoflores.lab4.execise
+package com.diegoflores.labs.Lab4
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.border
@@ -18,12 +18,11 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.graphicsLayer
 import androidx.compose.ui.res.painterResource
-import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
-import androidx.compose.ui.text.style.TextDecoration
 import androidx.compose.ui.unit.dp
 import com.diegoflores.lab4.R
+
 
 @Composable
 fun Caratula(modifier: Modifier = Modifier){

@@ -1,4 +1,4 @@
-package com.diegoflores.lab4
+package com.diegoflores.labs
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

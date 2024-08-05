@@ -1,4 +1,4 @@
-package com.diegoflores.lab4
+package com.diegoflores.labs
 
 import org.junit.Test
 
